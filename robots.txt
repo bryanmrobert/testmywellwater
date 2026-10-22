@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://testmywellwater.com/sitemap.xml

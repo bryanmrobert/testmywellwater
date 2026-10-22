@@ -1,0 +1,20 @@
+# Test My Well Water
+
+> Independent, source-cited directory of private well water testing options in the US (health departments, state/university programs, certified labs, fees, state laws). Published by Robert Companies LLC. Informational only, not medical advice. Last updated 2026-10-21.
+
+## Pages
+- [Test My Well Water](https://testmywellwater.com/): Find official, low-cost well water testing programs, certified labs and fees for your state, with sources cited on every page.
+- [Where to Get Well Water Tested: Health Dept, Certified Labs & State Programs](https://testmywellwater.com/where-to-get-well-water-tested/): Three official ways to get private well water tested, what EPA says to test yearly, and state-by-state program links with fees.
+- [Virginia Well Water Testing: VAHWQP Clinics ($70/kit)](https://testmywellwater.com/virginia/): How Virginia's VAHWQP drinking water clinics work, the $70 kit cost, the 28 items tested, and the rules when buying a home with a well.
+- [New Jersey Private Well Testing Act (PWTA) Explained](https://testmywellwater.com/new-jersey/): When NJ law requires well testing at sale or lease, closing rules, landlord duties every 5 years, and the PFAS testing requirement, from NJDEP.
+- [Pennsylvania Well Water Testing: Penn State Lab Fees ($60–$220)](https://testmywellwater.com/pennsylvania/): Penn State AASL drinking water test packages and fees, how to get a kit from your county extension office, and sample timing rules.
+- [New York Well Water Testing: ELAP Labs & PFAS Pilot](https://testmywellwater.com/new-york/): NYSDOH guidance on testing private wells (bacteria yearly, others every 3–5 years), finding ELAP-certified labs, and the free PFAS testing pilot.
+- [Maryland Well Water Testing: MDE Guidance & Certified Labs](https://testmywellwater.com/maryland/): MDE's annual well testing recommendations for Maryland's ~350,000 private-well households, plus where to find a state-certified lab.
+- [Well Water Test Kit vs. Certified Lab vs. County Program](https://testmywellwater.com/guides/mail-in-kit-vs-certified-lab-vs-county-program/): Compare free county testing, state/university programs, certified labs and mail-in kits like Tap Score for private well water, with official sources.
+- [Well Water Smells Like Rotten Eggs? Causes & What to Test](https://testmywellwater.com/guides/well-water-smells-like-rotten-eggs/): Why well water smells like rotten eggs (hydrogen sulfide), how to tell a water-heater problem from a well problem, and which tests official sources recommend.
+- [Buying a House With a Well: Water Testing Checklist](https://testmywellwater.com/guides/buying-a-house-with-a-well/): A 7-step, source-cited checklist for well water testing when buying a home: state laws, lender rules, which tests to order, and well records.
+- [How to Collect a Well Water Bacteria Sample](https://testmywellwater.com/guides/how-to-collect-a-well-water-bacteria-sample/): Step-by-step bacteria sampling for well water: sterile bottle, five-minute flush, 100 mL fill, refrigerate, and the 30-hour lab deadline, per Penn State.
+- [Well Water Guides](https://testmywellwater.com/guides/): Source-cited guides on choosing a well water test, sampling, odors and buying a home with a well.
+- [About](https://testmywellwater.com/about/): Test My Well Water is an independent, source-cited directory of private well water testing options, published by Robert Companies LLC.
+- [Disclaimer](https://testmywellwater.com/disclaimer/): Test My Well Water provides general information only and is not health, medical, legal or professional advice.
+- [Affiliate Disclosure](https://testmywellwater.com/affiliate-disclosure/): How Test My Well Water may earn commissions from some links, and how that does and doesn't affect our content.
