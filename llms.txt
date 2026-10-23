@@ -1,6 +1,6 @@
 # Test My Well Water
 
-> Independent, source-cited directory of private well water testing options in the US (health departments, state/university programs, certified labs, fees, state laws). Published by Robert Companies LLC. Informational only, not medical advice. Last updated 2026-10-21.
+> Independent, source-cited directory of private well water testing options in the US (health departments, state/university programs, certified labs, fees, state laws). Published by Robert Companies LLC. Informational only, not medical advice. Last updated 2026-10-23.
 
 ## Pages
 - [Test My Well Water](https://testmywellwater.com/): Find official, low-cost well water testing programs, certified labs and fees for your state, with sources cited on every page.
@@ -14,6 +14,17 @@
 - [Well Water Smells Like Rotten Eggs? Causes & What to Test](https://testmywellwater.com/guides/well-water-smells-like-rotten-eggs/): Why well water smells like rotten eggs (hydrogen sulfide), how to tell a water-heater problem from a well problem, and which tests official sources recommend.
 - [Buying a House With a Well: Water Testing Checklist](https://testmywellwater.com/guides/buying-a-house-with-a-well/): A 7-step, source-cited checklist for well water testing when buying a home: state laws, lender rules, which tests to order, and well records.
 - [How to Collect a Well Water Bacteria Sample](https://testmywellwater.com/guides/how-to-collect-a-well-water-bacteria-sample/): Step-by-step bacteria sampling for well water: sterile bottle, five-minute flush, 100 mL fill, refrigerate, and the 30-hour lab deadline, per Penn State.
+- [How Often Should You Test Well Water? (EPA & CDC Guidance)](https://testmywellwater.com/guides/how-often-to-test-well-water/): Test a private well every year for coliform, nitrates, TDS and pH (EPA, CDC), plus right away after floods, repairs or changes in taste or smell.
+- [What to Test Well Water For: Yearly Tests & Local Add-ons](https://testmywellwater.com/guides/what-to-test-well-water-for/): The yearly well tests EPA and CDC recommend (coliform, nitrate, TDS, pH), extra tests by local risk, and low-cost packages that bundle them.
+- [How Long Do Well Water Test Results Take?](https://testmywellwater.com/guides/how-long-do-well-water-test-results-take/): Published turnaround times: Penn State 10–14 business days, Virginia clinics 4–5 weeks, Loudoun about 6 weeks, plus bacteria shipping deadlines.
+- [Coliform-Positive Well Water: What It Means & What to Do](https://testmywellwater.com/guides/coliform-positive-well-water-what-to-do/): What a positive total coliform or E. coli well test means, when to retest, safe drinking water meanwhile, and shock chlorination, from CDC and state health departments.
+- [Safe Nitrate Levels in Well Water (EPA 10 mg/L Limit)](https://testmywellwater.com/guides/safe-nitrate-levels-in-well-water/): EPA's 10 mg/L nitrate-nitrogen limit, why it matters for infants, where nitrate comes from, how often to test, and why boiling won't fix it.
+- [Loudoun County VA Well Water Testing: $70 VCE Kit, Leesburg](https://testmywellwater.com/virginia/loudoun-county/): Loudoun County's VCE water testing program: $70 kit, Leesburg pickup and drop-off, results in about six weeks, and the 2027 waitlist.
+- [Hunterdon County NJ Well Water Testing: Kits, Prices, Phone](https://testmywellwater.com/new-jersey/hunterdon-county/): Where to get a well test kit in Hunterdon County, NJ: Raritan Headwaters $70 basic test, Flemington pickup, phone, and county health department guidance.
+- [Chester County PA Well Water Testing Labs & Phone Numbers](https://testmywellwater.com/pennsylvania/chester-county/): Well water testing labs in Chester County, PA from the county health department's list, with phone numbers, plus Penn State's mail-in option from $60.
+- [Lancaster County PA Well Water Testing: Extension Office & Labs](https://testmywellwater.com/pennsylvania/lancaster-county/): Lancaster County well testing: Penn State Extension office address, phone and hours, Penn State lab prices ($60–$220), and two local labs.
+- [Privacy Policy](https://testmywellwater.com/privacy/): What Test My Well Water does and doesn't collect: no accounts, forms, ads or analytics scripts of our own; hosted on GitHub Pages.
+- [How We Verify Information](https://testmywellwater.com/methodology/): How Test My Well Water researches, cites and dates every fact, and what we leave out when we can't verify it.
 - [Well Water Guides](https://testmywellwater.com/guides/): Source-cited guides on choosing a well water test, sampling, odors and buying a home with a well.
 - [About](https://testmywellwater.com/about/): Test My Well Water is an independent, source-cited directory of private well water testing options, published by Robert Companies LLC.
 - [Disclaimer](https://testmywellwater.com/disclaimer/): Test My Well Water provides general information only and is not health, medical, legal or professional advice.
